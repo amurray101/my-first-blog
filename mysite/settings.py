@@ -25,7 +25,7 @@ SECRET_KEY = 'xc((3e+b!(+298&0qg7doe852_wsiq(@fm4z1j@@_f92*=23sk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'alexa.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'amurray101.pythonanywhere.com']
 
 
 # Application definition
